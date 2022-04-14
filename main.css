@@ -1,0 +1,36 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+  padding: 50px 200px;
+  font-size: 2rem;
+}
+
+p {
+  padding: 10px 100px;
+}
+
+img {
+  max-width: 500px;
+}
+
+.main {
+  width: 100%;
+}
+
+.animal-header {
+  background-color: rgb(196, 190, 245);
+  width: 100%;
+}
+
+.content {
+  background-color: rgb(181, 247, 247);
+}
+
+.images {
+  display: flex;
+  justify-content: center;
+}
