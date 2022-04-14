@@ -3,7 +3,7 @@ body {
 }
 
 h1 {
-  color: blue;
+  color: rgb(172, 85, 248);
   text-align: center;
   padding: 50px 200px;
   font-size: 2rem;
@@ -22,12 +22,14 @@ img {
 }
 
 .animal-header {
-  background-color: rgb(196, 190, 245);
+  background-color: rgb(222, 218, 247);
   width: 100%;
 }
 
 .content {
-  background-color: rgb(181, 247, 247);
+  background-color: rgb(97, 200, 241);
+  font-weight: bolder;
+  color: rgb(7, 81, 146)
 }
 
 .images {
